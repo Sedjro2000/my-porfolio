@@ -5,12 +5,14 @@
         {
             name: "FilmHub",
             icon: "fa-solid fa-film",
+            href: "https://fiilmhub.netlify.app/",
             description:
                 "Filmhub, is a dynamic web application built with React, leveraging the OMDb API. This innovative platform provides an interactive cinematic experience, allowing users to discover and explore a diverse selection of films, all within a user-friendly and immersive interface.",
         },
         {
             name: "Netfilx-clone",
             icon: "fa-solid fa-question",
+            href:"",
             description:
             "  Embracing a challenge to enhance my skills, I undertook the ambitious project of creating a Netflix clone using Next.js, Tailwind CSS, NextAuth, and a MongoDB database with Prisma. This endeavor provided me with a valuable opportunity to learn and gain hands-on experience with Next.js, while delving into the intricacies of developing a complete application",
         },
