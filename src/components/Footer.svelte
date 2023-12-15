@@ -13,7 +13,7 @@
             <a href="https://www.linkedin.com/in/manoel-selove-bb6267209">
                 <i class="fa-brands fa-linkedin-in text-4xl" />
             </a>
-            <a href="https://github.com">
+            <a href="https://https://github.com/Sedjro2000">
                 <i class="fa-brands fa-github text-4xl" />
             </a>
             <a href="mailto:selovemanoel@gmail.com">
