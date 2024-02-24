@@ -36,7 +36,7 @@
                 Hi! I'm <span class="poppins text-violet-400">Sèdjro Manoel </span>SELOVE <br/>Full Stack <span class="poppins text-violet-400">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                My <span class="text-violet-400"> favorite tech </span> includes Javascript (NextJS,Typescript, React, Svelte, Sveltekit, Node JS + EXpressJS & Mongo DB), Tailwind CSS, PHP
+                My <span class="text-violet-400"> favorite tech </span> includes Javascript (NextJS,Typescript, React, Svelte, Sveltekit, Node JS + EXpressJS & Mongo DB, GraphQL, RESTAPI, Docker), Tailwind CSS, PHP
             </p>
             <!--a  class=" blueShadow mx-auto lg:mr-auto text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950" href="#">
                 <div
