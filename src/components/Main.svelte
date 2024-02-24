@@ -10,11 +10,18 @@
                 "Filmhub, is a dynamic web application built with React, leveraging the OMDb API. This innovative platform provides an interactive cinematic experience, allowing users to discover and explore a diverse selection of films, all within a user-friendly and immersive interface.",
         },
         {
-            name: "Netfilx-clone",
+            name: "Bandage Ecommerce FigmatoCode Challenge Week3",
             icon: "fa-solid fa-question",
-            href:"",
+            href:"https://bandage-ecommerce.netlify.app/",
             description:
-            "  Embracing a challenge to enhance my skills, I undertook the ambitious project of creating a Netflix clone using Next.js, Tailwind CSS, NextAuth, and a MongoDB database with Prisma. This endeavor provided me with a valuable opportunity to learn and gain hands-on experience with Next.js, while delving into the intricacies of developing a complete application",
+            "  Embracing a challenge to enhance my skills, I undertook the ambitious project of creating a ecommerce site  using React, Tailwind CSS.",
+        },
+        {
+            name: "Porfolio figma-to-code-challenge-week4",
+            icon: "fa-solid fa-question",
+            href:"https://figma-to-code-challenge-week4-sedjro.vercel.app/",
+            description:
+            "  Embracing a challenge to enhance my skills, I undertook the ambitious project of creating a Porfolio using React, Tailwind CSS. ",
         },
      
     ];
@@ -68,6 +75,12 @@
             </Step>
 
             <Step step = {steps[1]}>
+                <p>
+                  
+                </p>
+
+            </Step>
+            <Step step = {steps[2]}>
                 <p>
                   
                 </p>
